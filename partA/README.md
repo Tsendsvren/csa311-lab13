@@ -13,7 +13,7 @@
 ```bash
 cd partB
 npm install
-cp .env.example .env
+copy .env.example .env
 npm run dev
 ```
 
